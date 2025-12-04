@@ -1,10 +1,12 @@
 import Navbar from './Navbar'
+import Page1Content from './Page1content'
 
 
 const Section1 = () => {
   return (
     <>
    <Navbar/>
+   <Page1Content/>
    </>
 
    
